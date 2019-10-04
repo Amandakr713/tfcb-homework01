@@ -1,6 +1,6 @@
-#tfcb-homework01
+# tfcb-homework01
 
-##About Amandakr713
+## About Amandakr713
 1. Name: Amanda Riley
 2. Graduate program: Molecular and Cellular Biology, Second year 
 3. Thesis lab: Berger Lab
