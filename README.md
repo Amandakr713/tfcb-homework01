@@ -4,8 +4,12 @@
 1. Name: Amanda Riley
 2. Graduate program: Molecular and Cellular Biology, Second year 
 3. Thesis lab: [Berger Lab](https://research.fhcrc.org/berger/en.html)
-4. Alma mater: Muhlenberg College 
+4. Alma mater: [Muhlenberg College](https://www.muhlenberg.edu/) 
 5. Hometown: Cary, North Carolina
 6. Birthday: November 5th, 1993
+
+## Images for reference
+Click [here](images/acanthomyrmex-ferox.jpg) to see the ant species *acanthomyrmex ferox* 
+
 
 
