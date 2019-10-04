@@ -7,3 +7,5 @@
 4. Alma mater: Muhlenberg College 
 5. Hometown: Cary, North Carolina
 6. Birthday: November 5th, 1993
+
+
