@@ -9,7 +9,7 @@
 6. Birthday: November 5th, 1993
 
 ## Images for reference
-Click [here](images/acanthomyrmex-ferox.jpg) to see the ant species *acanthomyrmex ferox* 
+![*acanthomyrmex ferox*](images/acanthomyrmex-ferox.jpg) 
 
 
 
