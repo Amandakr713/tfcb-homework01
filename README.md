@@ -8,8 +8,11 @@
 5. Hometown: Cary, North Carolina
 6. Birthday: November 5th, 1993
 
-## Images for reference
+## Image for reference
 ![*acanthomyrmex ferox*](images/acanthomyrmex-ferox.jpg) 
+
+## Table for reference
+![test](data/survey-data.xlsx)
 
 
 
