@@ -8,7 +8,7 @@
 5. Hometown: Cary, North Carolina
 6. Birthday: November 5th, 1993
 
-## Cities I've lived in
+### Cities I've lived in
 | City | State | Year |
 | ---- | ---- | ------ |
 | Cary | NC    | 1993-2012 |
