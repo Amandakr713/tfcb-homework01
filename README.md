@@ -8,15 +8,18 @@
 5. Hometown: Cary, North Carolina
 6. Birthday: November 5th, 1993
 
-## Image for reference
-![*acanthomyrmex ferox*](images/acanthomyrmex-ferox.jpg) 
-
+## Cities I've lived in
 | City | State | Year |
 | ---- | ---- | ------ |
 | Cary | NC    | 1993-2012 |
 | Allentown | PA | 2012-2016 |
 | Boston | MA | 2016-2018
 |Seattle | WA | 2018-Present |
+
+## Image for reference
+![*acanthomyrmex ferox*](images/acanthomyrmex-ferox.jpg) 
+
+
 
 
 
