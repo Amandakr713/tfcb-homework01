@@ -11,8 +11,14 @@
 ## Image for reference
 ![*acanthomyrmex ferox*](images/acanthomyrmex-ferox.jpg) 
 
-## Table for reference
-![test](data/survey-data.xlsx)
+| City | State | Year |
+| ---- | ---- | ------ |
+| Cary | NC    | 1993-2012 |
+| Allentown | PA | 2012-2016 |
+| Boston | MA | 2016-2018
+|Seattle | WA | 2018-Present |
+
+
 
 
 
