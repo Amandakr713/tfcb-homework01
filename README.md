@@ -5,8 +5,8 @@
 2. Graduate program: Molecular and Cellular Biology, Second year 
 3. Thesis lab: [Berger Lab](https://research.fhcrc.org/berger/en.html)
 4. Alma mater: [Muhlenberg College](https://www.muhlenberg.edu/) 
-..* Major: Biology
-..* Minors: French & Public Health
+ * Major: Biology
+ * Minors: French & Public Health
 5. Hometown: Cary, North Carolina
 6. Birthday: November 5th, 1993
 
